@@ -32,8 +32,8 @@ MIS236-Food-Delivery-System/
 ├── schema.sql                                              ← Full database: tables, inserts, queries, view
 ├── Relational Mapping of Online Food Delivery System.jpeg  ← Relational mapping diagram
 ├── ER-diagram.pdf                                          ← Entity-Relationship diagram
-├── presentation.pdf                                        ← Project presentation slides
-└── project-report.pdf                                      ← Full project report
+├── presentation-1.pdf                                      ← Project presentation slides
+└── presentation-2.pdf                                      ← Project presentation slides
 ```
 
 ---
